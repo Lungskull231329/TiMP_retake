@@ -1,0 +1,5 @@
+C:/Users/vanya/CLionProjects/Nikulchev_Ivan_231_329_retake/cmake-build-debug/CMakeFiles/Nikulchev_Ivan_231_329_retake.dir
+C:/Users/vanya/CLionProjects/Nikulchev_Ivan_231_329_retake/cmake-build-debug/CMakeFiles/FilmDBTests.dir
+C:/Users/vanya/CLionProjects/Nikulchev_Ivan_231_329_retake/cmake-build-debug/CMakeFiles/sqlite3.dir
+C:/Users/vanya/CLionProjects/Nikulchev_Ivan_231_329_retake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vanya/CLionProjects/Nikulchev_Ivan_231_329_retake/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+# ninja log v5
+5	2938	7509984644969079	CMakeFiles/Nikulchev_Ivan_231_329_retake.dir/main.cpp.obj	e0fe6e9d8f99a557
+19	9746	7509978399051209	CMakeFiles/Nikulchev_Ivan_231_329_retake.dir/sqlite3.c.obj	d94cfd5ad088e975
+2938	4213	7509984648318300	Nikulchev_Ivan_231_329_retake.exe	928e41626fe2cf78
+6	1192	7509983739179350	CMakeFiles/Nikulchev_Ivan_231_329_retake.dir/FilmDB.cpp.obj	e5ed2e1b57eecc86
+13	1317	7509989366662611	CMakeFiles/runTests.dir/FilmDB.cpp.obj	11958a6a2a857976
+13	1303	7509997644983911	CMakeFiles/FilmDBTests.dir/FilmDB.cpp.obj	9e4b1b0adeb6908c
+2	249	7510001103764624	build.ninja	a82e7d953b349261
+4	1136	7509997914013154	CMakeFiles/FilmDBTests.dir/tests/tests.cpp.obj	c9fc517537ea8f33
+5	9597	7510001206711046	CMakeFiles/sqlite3.dir/sqlite3.c.obj	489a715940a459a
+9598	9849	7510001209318549	libsqlite3.a	ca591633a1f12d5b
+9849	10779	7510001211618887	FilmDBTests.exe	63e0e18af083dbdd
+5	1127	7510002227223425	CMakeFiles/FilmDBTests.dir/FilmDB.cpp.obj	9e4b1b0adeb6908c
+1128	2353	7510002230336259	FilmDBTests.exe	63e0e18af083dbdd
+7	1194	7510002418261419	CMakeFiles/Nikulchev_Ivan_231_329_retake.dir/FilmDB.cpp.obj	e5ed2e1b57eecc86
+1195	2385	7510002421168226	Nikulchev_Ivan_231_329_retake.exe	928e41626fe2cf78
+7	1238	7510002820157522	CMakeFiles/Nikulchev_Ivan_231_329_retake.dir/FilmDB.cpp.obj	e5ed2e1b57eecc86
+1239	2489	7510002823227175	Nikulchev_Ivan_231_329_retake.exe	928e41626fe2cf78
+4	1088	7510003219331208	CMakeFiles/Nikulchev_Ivan_231_329_retake.dir/FilmDB.cpp.obj	e5ed2e1b57eecc86
+5	1358	7510003605300892	CMakeFiles/Nikulchev_Ivan_231_329_retake.dir/FilmDB.cpp.obj	e5ed2e1b57eecc86
+1359	2576	7510003608263366	Nikulchev_Ivan_231_329_retake.exe	928e41626fe2cf78
+7	1308	7510003677695999	CMakeFiles/FilmDBTests.dir/FilmDB.cpp.obj	9e4b1b0adeb6908c
+1309	2590	7510003680795079	FilmDBTests.exe	63e0e18af083dbdd
+5	997	7510004761693234	CMakeFiles/FilmDBTests.dir/tests/tests.cpp.obj	c9fc517537ea8f33
+997	2201	7510004764697789	FilmDBTests.exe	63e0e18af083dbdd

@@ -1,0 +1,3 @@
+C:/Users/vanya/CLionProjects/Nikulchev_Ivan_231_329_retake/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/vanya/CLionProjects/Nikulchev_Ivan_231_329_retake/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/vanya/CLionProjects/Nikulchev_Ivan_231_329_retake/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
